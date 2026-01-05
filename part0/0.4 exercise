@@ -43,4 +43,4 @@ sequenceDiagram
     server-->>browser: HTML document
     deactivate server
 
-    Note right of browser: When the server returns the new note that the user just sent.
+    When the server returns the new note that the user just sent.
